@@ -1,13 +1,15 @@
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 # Neha Mehta
 
+ 
 ## About Me
 
-I am a passionate software developer with a background in botany. Despite a gap in my formal employment due to personal commitments, I have remained deeply committed to advancing my skills and knowledge in software development. Following my relocation to Germany and the subsequent responsibilities of raising my children, I dedicated myself to enhancing my expertise in web development. Last year, in February 2023, I embarked on a comprehensive web development course focused on JavaScript, which I have since successfully completed.
+I am a passionate software developer with a background in botany. Despite a gap in my formal employment due to personal commitments, I have remained committed to advancing my skills in software development. Following my relocation to Germany and the responsibilities of raising my children, I dedicated myself to enhancing my expertise in web development. Last year, in February 2023, I completed a comprehensive web development course focused on JavaScript.
 
 Although this course marked my formal return to structured learning and professional development, I have always remained passionate about software development and continuously honed my skills through self-directed projects and staying updated with industry trends during my career break.
 
-I invite you to view my [LinkedIn profile](https://www.linkedin.com/in/neha-mehta-83ba1b260/) and [GitHub profile](https://github.com/NehaMehta2005) for further information on my professional background and skills.
+
+I invite you to view my [LinkedIn profile](https://www.linkedin.com/in/neha-mehta-83ba1b260/) for further information on my professional background and skills.
 
 Additionally, I have undertaken several web development projects which I believe demonstrate my capabilities and commitment to this field. Please find links to some of my projects below:
 
@@ -53,10 +55,4 @@ Node.js        3 hrs 45 mins    ███████░░░░░░░░░
 HTML/CSS       2 hrs            ███░░░░░░░░░░░░░░░░░░░░░░  15.83 %
 React Native   1 hr 30 mins     ███░░░░░░░░░░░░░░░░░░░░░░  11.92 %
 ```
-<pre>
-░░░░░░░░░░░░░░░░░░░░░░░░ 11.92 %
-Cooking        8 hrs          ████████████████████████  100.00 %
-Gardening      2 hrs          ███░░░░░░░░░░░░░░░░░░░░░░  15.83 %
-Photography    1 hr           ██░░░░░░░░░░░░░░░░░░░░░░░   8.33 %
-Karate         3 hrs          ████████░░░░░░░░░░░░░░░░░  25.00 %
-</pre> 
+ 
