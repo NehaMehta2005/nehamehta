@@ -15,7 +15,7 @@ Additionally, I have undertaken several web development projects which I believe
 
 - [Project 1 vegvalley Frontend](https://app.netlify.com/sites/vegvalley/overview)
 - [Project 2 quizzyreact Frontend](https://quizzyreact.netlify.app/)
-- Project 3 FullStack: [Still working on deployment]
+- Project 3 FullStack: [on progress]
 
 ## Technologies and Tools  
 
