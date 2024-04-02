@@ -13,7 +13,7 @@ I invite you to view my [LinkedIn profile](https://www.linkedin.com/in/neha-meht
 
 Additionally, I have undertaken several web development projects which I believe demonstrate my capabilities and commitment to this field. Please find links to some of my projects below:
 
-- [Project 1 vegvalley Frontend](https://app.netlify.com/sites/vegvalley/overview)
+- [Project 1 vegvalley Frontend](https://vegvalley.netlify.app/)
 - [Project 2 quizzyreact Frontend](https://quizzyreact.netlify.app/)
 - Project 3 FullStack: [on progress]
 
