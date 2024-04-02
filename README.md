@@ -15,7 +15,7 @@ Additionally, I have undertaken several web development projects which I believe
 
 - [Project 1 vegvalley Frontend](https://vegvalley.netlify.app/){:target="_blank"}
 - [Project 2 quizzyreact Frontend](https://quizzyreact.netlify.app/){:target="_blank"}
-- [Project 3 PixelCreditHub FullStack][on progress](https://pixelcredithub.netlify.app/){:target="_blank"}
+- [Project 3 PixelCreditHub FullStack (on progress)](https://pixelcredithub.netlify.app/){:target="_blank"}
 
 ## Technologies and Tools  
 
